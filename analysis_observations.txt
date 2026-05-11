@@ -1,2 +1,9 @@
 - A avaliação no NootbookLM se inicia com 13 fontes.
 - Quanto a forma da questão, copiada e colada diretamente no prompt box, o NotebookLM reagiu melhor, na solução, em comparação ao deepseek, assim sendo melhor anexar o print da questão para análise.
+
+
+## Introdução
+	
+	A intenção de anlise das respostas a questões por parte de duas inteligências, tal qual, a exemplo, a quantidade de fontes utilizadas para pesquisa, por cada uma das IAs, na busca pela resposta em questão dos níveis de rendimento 
+	
+	uso deepseek e o notebooklm
