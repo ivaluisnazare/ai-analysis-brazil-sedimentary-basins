@@ -7,3 +7,15 @@
 	A intenção de anlise das respostas a questões por parte de duas inteligências, tal qual, a exemplo, a quantidade de fontes utilizadas para pesquisa, por cada uma das IAs, na busca pela resposta em questão dos níveis de rendimento 
 	
 	uso deepseek e o notebooklm
+-criar um grafico de pizza que expresse o numero de fontes default e diferente dele para as duas ai's
+
+De acordo com os princípios da estratigrafia e as informações presentes nas fontes, a definição de uma unidade bioestratigráfica fundamenta-se nos seguintes pontos. "O notebooklm, vai alem das fontes anexadas para a resolução da questão"
+
+Os valores de numero de fonte diferente do default caracterizam para o deepseek uma busca mais difcultosa, com o tempo de precessamento para a resposta acima dos 20 segundos, onde se ve a pesquisa recorrendo a fontes na web.
+
+
+a relação entre o numero total de questões e não resolvidas por questões resolvidas por cada IA, agrupada pela data da avaliação.
+desenhar o bar plot
+
+O uso do NotebookLM tem, aqui, como finalidade a injestão de fontes ligadas a gelogia, que vao desde temas como estrutura, estatigrafia e evolução tectonico-sedimentar das bacias sedimentares brasileira a possiveis reservas mineralógicas. Com isso, o prompt fornece resultados a perguntas sobre questões relativas a tais processos e recursos.
+Para teste de potencial e de qualidade das respostas se faz uso de outra tecnologia, o deepseek, no intuito de verificar entra as duas IA's qual dispõe de respostas corretas e claras para uma mesma questão geológica. 
